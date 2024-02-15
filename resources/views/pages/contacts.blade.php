@@ -41,14 +41,14 @@
 
 
         .flip-card-front {
-            background-image: url("http://t0.gstatic.com/images?q=tbn:ANd9GcS0xzm7Kqh0Ex0LAtpmb90xe_pyMYMMNli98z7ONSYCqp9Zvq6cE5G2OOGvXjdLnuD7u2Cp0tKw8ab8LIyhU7bp32Zcc26uv7sJVBuoEBM");
+            background-image: url("https://about.me/s3/h/z/social.2ec36ec3.png");
             background-position: center;
             background-repeat: no-repeat;
             color: black;
         }
 
         .flip-card-back {
-            background-color: black;
+            background-color: #2a2a2a;
             background-position: center;
             background-repeat: no-repeat;
             color: white;
@@ -74,10 +74,6 @@
                     <div class="c">
                         <h1>Stefan Josanu</h1>
                         <p>W-2042c</p>
-                        <p>IDNP: 2003500117335</p>
-                        <p>Iubesc Windows si .NET</p>
-                        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/2048px-BMW.svg.png"
-                            alt="eu">
                     </div>
                 </div>
             </div>

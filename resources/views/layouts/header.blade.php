@@ -21,6 +21,9 @@
             <li class="nav-item">
                 <a class="nav-link" href={{route('elevi')}}>Elevi</a>
             </li>
+            <li class="nav-item">
+                <a class="nav-link" href="/articles">Articles</a>
+            </li>
         </ul>
     </div>
 </header>

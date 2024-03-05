@@ -5,18 +5,7 @@
 @endsection
 
 @section('content')
-    <style>
-        .content {
-            width: 100vw;
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items:center;
-            flex-direction: column;
-        }
-    </style>
-
-    <div class="content">
+    <div class="container p-5">
         <h1>WebSite Using Laravel</h1>
     </div>
 @endsection

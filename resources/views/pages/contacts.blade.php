@@ -4,15 +4,6 @@
 @endsection
 @section('content')
     <style>
-        .content {
-            width: 100vw;
-            height: 100vh;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            flex-direction: column;
-        }
-
         .flip-card {
             background-color: transparent;
             width: 500px;
@@ -64,7 +55,7 @@
             height: 100px;
         }
     </style>
-    <div class="content">
+    <div class="container p-5">
         <h1>{{ $np }}</h1>
         <div class="flip-card">
             <div class="flip-card-inner">

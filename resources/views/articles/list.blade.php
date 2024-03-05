@@ -1,9 +1,10 @@
-@extends('layouts.app')
+@extends('articles.layout')
 @section('content')
 @section('title')
    List
 @endsection
-    <div class="p-3"><a href="{{ route('articles.create') }}" class="btn btn-success mb-2">Add</a></div>
+<h1 class="text-center ">Article List</h1>
+    <a href="{{ route('articles.create') }}" class="btn btn-success mb-2">Add</a>
     <br>
     <div class="row">
         <div class="col-12">

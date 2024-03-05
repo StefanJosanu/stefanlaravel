@@ -3,7 +3,7 @@
 @section('title')
    List
 @endsection
-    <a href="{{ route('articles.create') }}" class="btn btn-success mb-2">Add</a>
+    <div class="p-3"><a href="{{ route('articles.create') }}" class="btn btn-success mb-2">Add</a></div>
     <br>
     <div class="row">
         <div class="col-12">
